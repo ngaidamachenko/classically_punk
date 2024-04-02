@@ -17,6 +17,8 @@ The structure of the notebook is as follows:
 #### 4. Save the extracted features to a respective CSV file
 #### 5. Create, run and evaluate the model
 
+Audiofiles set can be downloaded at: https://storage.googleapis.com/qwasar-public/track-ds/classically_punk_music_genres.tar.gz
+
 ## Installation
 The program requires Jupyter Notebook functionality with the 
 following packages: asyncio, numpy, pandas, glob, sklearn, tensorflow and keras.
